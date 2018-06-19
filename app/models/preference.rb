@@ -1,4 +1,8 @@
 class Preference < ActiveRecord::Base
   
-  def self.
+  def self.artist_sort_order
+    
+  end
+  
+  def 
 end
